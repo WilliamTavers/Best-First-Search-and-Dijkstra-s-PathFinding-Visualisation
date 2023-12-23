@@ -19,4 +19,4 @@ Instructions:
 4. Press 'd' to start Dijkstra's Algorithm 
 5. Press 'b' for Best-First Search 
 6. Press 'c' to clear the grid and start over
-
+7. Press 'r  to randomise walls
